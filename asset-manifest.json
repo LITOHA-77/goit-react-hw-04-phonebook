@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LITOHA-77/goit-react-hw-04-phonebook/static/css/main.f03e5b16.css",
+    "main.js": "/LITOHA-77/goit-react-hw-04-phonebook/static/js/main.406f472b.js",
+    "index.html": "/LITOHA-77/goit-react-hw-04-phonebook/index.html",
+    "main.f03e5b16.css.map": "/LITOHA-77/goit-react-hw-04-phonebook/static/css/main.f03e5b16.css.map",
+    "main.406f472b.js.map": "/LITOHA-77/goit-react-hw-04-phonebook/static/js/main.406f472b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f03e5b16.css",
+    "static/js/main.406f472b.js"
+  ]
+}
